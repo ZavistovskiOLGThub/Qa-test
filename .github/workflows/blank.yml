@@ -26,6 +26,9 @@ jobs:
       - name: Run a show all in folders
         run: ls -la
 
+        name: Run a bash script
+        run: ./PrivetMur.sh
+
           
     
     
