@@ -22,3 +22,13 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          runs-on: ubuntu-latest
+    
+
+      - name: Run a show all in folders
+        run: echo$ ls -la
+
+          
+    
+    
+
