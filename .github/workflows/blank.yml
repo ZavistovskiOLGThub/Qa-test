@@ -26,7 +26,7 @@ jobs:
     
 
       - name: Run a show all in folders
-        run: echo$ ls -la
+        run: ls -la
 
           
     
